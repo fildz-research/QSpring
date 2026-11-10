@@ -8,7 +8,7 @@ QSpring (QuasiSpring) explores mid-air printing combined with cold extrusion to 
 | **Requirement** | **Required** | **Comment** |
 | --- | :---: | --- |
 | Pre-work preparation | :green_circle: | *No preparations required before work*. |
-| CAD software | :green_circle: | *No CAD software required.*. |
+| CAD software | :green_circle: | *No CAD software required*. |
 | G-code post-processing | :red_circle: | *G-code modifications are required*. |
 | Post-processing | :green_circle: | *Slight post-processing is required*. |
 | Filament compatibility | :green_circle: | *Supports all traditional filaments*. |
